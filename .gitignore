@@ -261,3 +261,6 @@ __pycache__/
 *.pyc
 /Arkanoid/Ipt/Ark.ipt/OldVersions
 /Arkanoid/Ark.ipt/OldVersions
+/Arkanoid/Ark.ipt/lockfile.lck
+/Arkanoid/Ather/ipt/Arduino/lockfile.lck
+/Arkanoid/Ather/ipt/Motors/lockfile.lck
